@@ -49,9 +49,9 @@
 <h2>📫 How to reach me:</h2>
 <ul>
   <li>
-    <p><a href="mailto:k.wictoria.r@gmail.com">Email</a></p>			
+    <p>Email: <a href="mailto:k.wictoria.r@gmail.com" target="_blank">k.wictoria.r@gmail.com</a></p>			
   </li>
    <li>
-  <p><a href="https://t.me/k_victoria_r">Telegram</a></p>
+  <p>Telegram: <a href="https://t.me/k_victoria_r" target="_blank">https://t.me/k_victoria_r</a></p>
   </li>
 </ul>
