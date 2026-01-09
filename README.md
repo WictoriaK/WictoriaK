@@ -45,7 +45,8 @@
   </li>
 </ul>
 
-📫 How to reach me:
+
+<h2>📫 How to reach me:</h2>
 <ul>
   <li>
     <p>Email: k.wictoria.r@gmail.com</p>			
