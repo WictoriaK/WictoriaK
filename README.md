@@ -41,7 +41,7 @@
     <p>St. Petersburg University of Management Technologies and Economics	</p>		
   </li>
    <li>
-    <p>2025 - Present, HTML Academy, Profession "Frontend developer + JavaScript developer + Backend developer"</p>
+    <p>October 2025 - Present, HTML Academy, Profession "Frontend developer + JavaScript developer + Backend developer"</p>
   </li>
 </ul>
 
