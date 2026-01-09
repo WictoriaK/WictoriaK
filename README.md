@@ -41,7 +41,7 @@
     <p>St. Petersburg University of Management Technologies and Economics	</p>		
   </li>
    <li>
-    <p>2024 - Present, Профессия «Фронтенд-разработчик + JavaScript-разработчик + Бэкенд-разработчик»</p>
+    <p>2024 - Present, HTML Academy Profession "Frontend developer + JavaScript developer + Backend developer"</p>
   </li>
 </ul>
 
