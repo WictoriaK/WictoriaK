@@ -1,6 +1,6 @@
 ## Hi there, I`m Victoria 👋
 
-<p>Frontend developer from Russia.</p>
+<p>Frontend developer.</p>
 
 <h2>My pet-projects:</h2>
 
