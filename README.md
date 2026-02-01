@@ -6,7 +6,7 @@
 
 <ul>
   <li>
-    <a href="wictoriak.github.io/big-trip">Big Trip</a>
+    <a href="[wictoriak.github.io/big-trip](https://wictoriak.github.io/big-trip/)">Big Trip</a>
   </li>
    <li>
     <a href="wictoriak.github.io/keksobooking/">Keksobooking</a>
