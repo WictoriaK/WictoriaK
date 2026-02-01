@@ -9,13 +9,13 @@
     <a href="https://wictoriak.github.io/big-trip/">Big Trip</a>
   </li>
    <li>
-    <a href="wictoriak.github.io/keksobooking/">Keksobooking</a>
+    <a href="https://wictoriak.github.io/keksobooking/">Keksobooking</a>
   </li>
    <li>
-    <a href="wictoriak.github.io/kekstagram/">Kekstagram</a>
+    <a href="https://wictoriak.github.io/kekstagram/">Kekstagram</a>
   </li>
    <li>
-    <a href="wictoriak.github.io/weather-app/">Weather App</a>
+    <a href="https://wictoriak.github.io/weather-app/">Weather App</a>
   </li>
 </ul>
 
